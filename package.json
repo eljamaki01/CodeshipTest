@@ -1,0 +1,20 @@
+{
+  "name": "CodeshipTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eljamaki01/CodeshipTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eljamaki01/CodeshipTest/issues"
+  },
+  "homepage": "https://github.com/eljamaki01/CodeshipTest#readme"
+}
